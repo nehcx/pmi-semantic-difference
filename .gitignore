@@ -1,1 +1,7 @@
 __pycache__
+model/*
+res/*
+*.txt
+*.npy
+*.pkl
+__pycache__
