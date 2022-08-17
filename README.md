@@ -1,4 +1,4 @@
-The codes were mainly written by [a1da4/pmi-semantic-difference][https://github.com/a1da4/pmi-semantic-difference].
+The codes were mainly written by [a1da4/pmi-semantic-difference](https://github.com/a1da4/pmi-semantic-difference).
 pmi-svd was used.
 
 ## Reference
